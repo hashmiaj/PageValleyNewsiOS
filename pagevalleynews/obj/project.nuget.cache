@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUYtYHG4JZwRxA4CpJiFt1qSEA/BcpkxrNZN2624oQzZtWW9/c3F5hCstq0NYr0Hph5B8ZVbjkHOiOgJvawxUA==",
+  "success": true,
+  "projectFilePath": "/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews/pagevalleynews.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.cognitoidentity/3.3.101.61/awssdk.cognitoidentity.3.3.101.61.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.cognitosync/3.3.100.158/awssdk.cognitosync.3.3.100.158.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.core/3.3.106.2/awssdk.core.3.3.106.2.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.securitytoken/3.3.104.57/awssdk.securitytoken.3.3.104.57.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.simplenotificationservice/3.3.101.140/awssdk.simplenotificationservice.3.3.101.140.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/xamarin.essentials/1.2.0/xamarin.essentials.1.2.0.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/xamarin.forms/4.5.0.530/xamarin.forms.4.5.0.530.nupkg.sha512"
+  ],
+  "logs": []
+}

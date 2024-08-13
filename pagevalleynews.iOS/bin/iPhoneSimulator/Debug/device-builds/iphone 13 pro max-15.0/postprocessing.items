@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="pagevalleynews.iOS.app/pagevalleynews.iOS">
+      <BCSymbolMapName>pagevalleynews.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>pagevalleynews.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/mtouch-symbols.list</SymbolFile>
+      <DSymName>pagevalleynews.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

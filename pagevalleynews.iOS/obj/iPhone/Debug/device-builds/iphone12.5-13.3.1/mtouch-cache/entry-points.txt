@@ -1,0 +1,85 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhone/Debug/device-builds/iphone12.5-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip

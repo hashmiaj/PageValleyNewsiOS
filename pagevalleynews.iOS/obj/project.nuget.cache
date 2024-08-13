@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "9uyPlBbYgpkTdTwulc070gnOFoIZscM7DJhocbrhhk53lxV+2NQej86ORc7k0aqMFSaL+DJKDOFgj3H6q1jdgQ==",
+  "success": true,
+  "projectFilePath": "/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/pagevalleynews.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.cognitoidentity/3.3.101.62/awssdk.cognitoidentity.3.3.101.62.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.cognitosync/3.3.100.159/awssdk.cognitosync.3.3.100.159.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.core/3.3.106.3/awssdk.core.3.3.106.3.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.securitytoken/3.3.104.58/awssdk.securitytoken.3.3.104.58.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/awssdk.simplenotificationservice/3.3.101.148/awssdk.simplenotificationservice.3.3.101.148.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/pclcrypto/1.0.2.15130/pclcrypto.1.0.2.15130.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/pclstorage/1.0.2/pclstorage.1.0.2.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/sqlitepclraw.bundle_green/1.0.1/sqlitepclraw.bundle_green.1.0.1.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/sqlitepclraw.core/1.0.1/sqlitepclraw.core.1.0.1.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/sqlitepclraw.provider.sqlite3.ios_unified/1.0.1/sqlitepclraw.provider.sqlite3.ios_unified.1.0.1.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/validation/2.0.6.15003/validation.2.0.6.15003.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/xamarin.essentials/1.2.0/xamarin.essentials.1.2.0.nupkg.sha512",
+    "/Users/abdullahhashmi/.nuget/packages/xamarin.forms/4.5.0.530/xamarin.forms.4.5.0.530.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "PCLCrypto 1.0.2.15130 depends on Validation (>= 2.0.6 && < 3.0.0) but Validation 2.0.6 was not found. An approximate best match of Validation 2.0.6.15003 was resolved.",
+      "libraryId": "Validation",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

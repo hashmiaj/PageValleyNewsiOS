@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pagevalleynews.MainPage">
+    <ContentPage.Content>
+        <Grid x:Name="Grid" RowSpacing="0" ColumnSpacing="0" BackgroundColor="#ededed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="03*"/>
+                <RowDefinition Height="08*"/>
+                <RowDefinition Height="90*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="70*"/>
+                <ColumnDefinition Width="20*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="BackButton"
+                   Text="&#xf0a8;"
+                   TextColor="Black"
+                   FontSize="25"
+                   Clicked="BackButtonClicked"
+                   BackgroundColor="#ededed"
+                   Grid.Column="0"
+                   Grid.Row="1">
+
+
+                <Button.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="FontAwesome5Solid.ttf#Font Awesome 5 Solid"
+                                iOS="Font Awesome 5 Solid"/>
+                </Button.FontFamily>
+            </Button>
+
+            <Button x:Name="ForwardButton"
+                   Text="&#xf0a9;"
+                   TextColor="Black"
+                   BackgroundColor="#ededed"
+                   FontSize="25"
+                   Clicked="ForwardButtonClicked"
+                   Grid.Column="1"
+                   Grid.Row="1">
+
+
+                <Button.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="FontAwesome5Solid.ttf#Font Awesome 5 Solid"
+                                iOS="Font Awesome 5 Solid"/>
+                </Button.FontFamily>
+            </Button>
+
+            <Label x:Name="HeaderTitle"
+                   Text="Page Valley News"
+                   TextColor="Black"
+                   BackgroundColor="#ededed"
+                   FontSize="20"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   Grid.Row="1"
+                   Grid.Column="2"
+                   >
+
+            </Label>
+
+            <Button x:Name="HomeButton"
+                   Text="&#xf015;"
+                   TextColor="Black"
+                   BackgroundColor="#ededed"
+                   FontSize="25"
+                   Clicked="HomeButtonClicked"
+                   Grid.Column="3"
+                   Grid.Row="1">
+
+
+                <Button.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="FontAwesome5Solid.ttf#Font Awesome 5 Solid"
+                                iOS="Font Awesome 5 Solid"/>
+                </Button.FontFamily>
+            </Button>
+
+            <StackLayout Grid.ColumnSpan="4" Grid.Row="2">
+                <ProgressBar x:Name="progressBar"
+                             Progress="0.2"
+                             HorizontalOptions="FillAndExpand"
+                             IsVisible="True"/>
+
+                <WebView x:Name="Webview"
+                         HeightRequest="1000"
+                         WidthRequest="1000"
+                         Navigating="OnNavigating"
+                         Navigated="OnNavigated"
+                         VerticalOptions="FillAndExpand"/>
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

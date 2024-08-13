@@ -1,0 +1,149 @@
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.iOS.exe
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.iOS.pdb
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.CognitoIdentity.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.CognitoSync.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.Core.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.SecurityToken.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.SimpleNotificationService.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/PCLStorage.Abstractions.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/PCLStorage.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.pdb
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/PVN.png
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.csprojAssemblyReference.cache
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.csproj.CoreCompileInputs.cache
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.csproj.CopyComplete
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.exe
+/Users/abdullahhashmi/Projects/PageValleyNews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.iOS.exe
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.iOS.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.CognitoIdentity.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.CognitoSync.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.Core.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.SecurityToken.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/AWSSDK.SimpleNotificationService.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/PCLStorage.Abstractions.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/PCLStorage.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/pagevalleynews.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/actool/_PartialAppManifest.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/actool/_BundleResourceWithLogicalName.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/actool/_ProcessedImageAssetsPath.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/coremlc/_PartialAppManifest.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/_ProcessedBundleResourcesPath.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/_ProcessedContentPath.items
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/optimized/PVN.png
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro max-15.0/optimized/
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.csproj.AssemblyReference.cache
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.csproj.CoreCompileInputs.cache
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.csproj.CopyComplete
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.exe
+/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/obj/iPhoneSimulator/Debug/pagevalleynews.iOS.pdb

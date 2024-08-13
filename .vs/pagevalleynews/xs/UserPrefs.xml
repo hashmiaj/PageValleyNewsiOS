@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B1A5BA91-E47F-4912-8A80-ADEF875DE0D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.pagevalleynews.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pagevalleynews/AssemblyInfo.cs">
+    <Files>
+      <File FileName="pagevalleynews.iOS/Info.plist" />
+      <File FileName="pagevalleynews.iOS/Main.cs" />
+      <File FileName="pagevalleynews/AWSCredentials.cs" Line="1" Column="1" />
+      <File FileName="pagevalleynews/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pagevalleynews" expanded="True" selected="True">
+            <Node name="pagevalleynews" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="pagevalleynews.Android" expanded="True" />
+            <Node name="pagevalleynews.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.pagevalleynews.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DDE722C1-3618-4288-AA21-70BF514BABAE" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/abdullahhashmi/Documents/pagevalleynews/pagevalleynews.iOS/AppDelegate.cs" relfile="pagevalleynews.iOS/AppDelegate.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
